@@ -1,0 +1,1 @@
+create table wiki_n_not_null as SELECT * FROM wiki where n is not null;
